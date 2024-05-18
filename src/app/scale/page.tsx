@@ -1,3 +1,12 @@
+import scaleImg from "public/scale.jpg";
+import Hero from "@/components/hero";
+
 export default function ScalePage() {
-  return <div>Scale</div>;
+  return (
+    <Hero
+      imgData={scaleImg}
+      imgAlt="scaling image"
+      title="We Scale like a Reptile"
+    />
+  );
 }
