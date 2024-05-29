@@ -1,12 +1,8 @@
-import homeImg from "public/performance.jpg";
+import landingImg from "public/landing.png";
 import Hero from "@/components/hero";
 
 export default function Home() {
   return (
-    <Hero
-      imgData={homeImg}
-      imgAlt="car factory"
-      title="Professional Services"
-    />
+    <Hero imgData={landingImg} imgAlt="landingImg" title="I love NextJS" />
   );
 }
