@@ -116,12 +116,12 @@ export default function Home() {
           <li className="pl-[20px]">
             <p className="p-[10px]">
               <strong>
-                Engage multiple users at once in a public discussion, to answer
-                their questions and troubleshoot problems{" "}
+                Run ticket review sessions to make sure tone is consistent{" "}
               </strong>
-              My passion and purpose is to advocate for my customers.Having
-              multiple users wanting to engage in a public discussion shows that
-              they are just as committed to the product as I am to their success{" "}
+              This does not sound like an acivity I would thrive in doing.I 'd
+              rather solve problems or spend time with our customers. Judging
+              tone consistency seems quite far from that and possibly less
+              fulfilling{" "}
             </p>{" "}
           </li>{" "}
           <li className="pl-[20px]">
